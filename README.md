@@ -137,7 +137,25 @@ console.log (PILocal) // ERRO - PILocal não foi definido
 ```
 
 # Operadores
-Lorem
+Operadores em Javascript são símbolos especiais que envolvem um ou mais operandos com a finalidade de produzir um determinado resultado.
+
+Quais os operadores JavaScript?
+Os operadores podem ser aritméticos como soma, subtração e divisão; de comparação como a igualdade; operadores sobre cadeias de caracteres como o de concatenação de strings e, por fim, operadores lógicos JavaScript como o ‘and’ e o ‘or’. Abaixo um exemplo de como utilizar operadores aritméticos como Adição, Subtração, Multiplicação, Divisão, Resto da divisão, Exponenciação, Incremento e Decremento
+
+```
+let x = 10
+let y = 3
+
+console.log(x + y) // 13 (Adição)
+console.log(x - y) // 7 (Subtração)
+console.log(x * y) // 30 (Multiplicação)
+console.log(x / y) // 3.333 (Divisão)
+console.log(x % y) // 1 (Resto da divisão)
+console.log(x ** y) // 1000 (Exponenciação)
+console.log(++x) // 11 (Incremento | x = x + 1)
+console.log(--x) // 10 (Decremento | x = x - 1)
+
+```
 
 # Operadores Relacionais e Lógicos
 Lorem
