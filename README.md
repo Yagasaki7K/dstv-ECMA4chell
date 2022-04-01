@@ -153,7 +153,7 @@ console.log(x / y) // 3.333 (Divisão)
 console.log(x % y) // 1 (Resto da divisão)
 console.log(x ** y) // 1000 (Exponenciação)
 console.log(++x) // 11 (Incremento | x = x + 1)
-console.log(--x) // 10 (Decremento | x = x - 1)
+console.log(--x) // 9 (Decremento | x = x - 1)
 
 ```
 
